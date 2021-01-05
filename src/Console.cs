@@ -17,7 +17,7 @@ namespace Peafowl
             new ConcurrentDictionary<string, Writer>();
         #endregion
 
-        public static void Register<T>(string name, T writer) where T : Writer
+        public static void Register<T>(string name, T writer) where T : Writer,new()
         {
             if (UserDefinedWriters.ContainsKey(name))
                 throw new WriterAlreadyRegistered($"This key ({nameof(name)}) already registered");
@@ -26,7 +26,7 @@ namespace Peafowl
                 throw new WriterAlreadyRegistered($"This key ({nameof(name)}) already registered");
         }
 
-        public static T Get<T>(string name) where T : Writer
+        public static T Get<T>(string name) where T : Writer,new()
         {
             if (!UserDefinedWriters.ContainsKey(name))
                 throw new WriterIsNotRegistered($"This key ({nameof(name)}) is not registered.");

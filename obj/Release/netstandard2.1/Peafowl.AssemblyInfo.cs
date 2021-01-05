@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Selçuk Güral")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Selçuk Güral")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Peafowl is very simple and extensibility for .Net and .Net Core applications  Con" +
     "sole  output library.")]

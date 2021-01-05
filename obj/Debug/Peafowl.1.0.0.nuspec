@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Peafowl</id>
+    <version>1.0.0</version>
+    <authors>Selçuk Güral</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>32px.png</icon>
+    <projectUrl>https://github.com/selcukgural/Peafowl</projectUrl>
+    <description>Peafowl is very simple and extensibility for .Net and .Net Core applications  Console  output library.</description>
+    <copyright>Selçuk Güral</copyright>
+    <tags>ConsoleColor Console Output Color Writer ColorfulText</tags>
+    <repository url="https://github.com/selcukgural/Peafowl" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\GitHub\Peafowl\bin\Debug\netstandard2.1\Peafowl.dll" target="lib\netstandard2.1\Peafowl.dll" />
+    <file src="D:\GitHub\Peafowl\image\32px.png" target="32px.png" />
+    <file src="D:\GitHub\Peafowl\LICENSE" target="LICENSE" />
+  </files>
+</package>

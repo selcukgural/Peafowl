@@ -2,6 +2,27 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Authors>Selçuk Güral</Authors>
+    <Description>Peafowl is very simple and extensibility for .Net and .Net Core applications  Console  output library.</Description>
+    <Copyright>Selçuk Güral</Copyright>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageProjectUrl>https://github.com/selcukgural/Peafowl</PackageProjectUrl>
+    <PackageIcon>32px.png</PackageIcon>
+    <RepositoryUrl>https://github.com/selcukgural/Peafowl</RepositoryUrl>
+    <PackageTags>ConsoleColor;Console;Output;Color;Writer;ColorfulText</PackageTags>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="image\32px.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>

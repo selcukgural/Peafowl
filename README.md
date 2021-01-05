@@ -7,7 +7,7 @@
 ``` csharp
 using Console = Peafowl.Console;
 ``` 
-<br>After you can use predefined writers with default colors.
+After you can use predefined writers with default colors.
 ``` csharp
 Console.Info.WriteLine("Info!");
 Console.Critical.WriteLine("Critical!");
