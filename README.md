@@ -1,6 +1,5 @@
-# Peafowl
- 
-![Logo](https://github.com/selcukgural/Peafowl/blob/main/image/64px.png)
+# Peafowl ![Logo](https://github.com/selcukgural/Peafowl/blob/main/image/64px.png)
+
 <br>Peafowl is **very simple** and **extensibility** for .Net and .Net Core applications `Console` output library.
 
 #### Basics
@@ -17,7 +16,7 @@ Console.Fatal.WriteLine("Fatal!");
 ```
 
 ![Output](https://github.com/selcukgural/Peafowl/blob/main/image/Capture.PNG)
-<br>Also you can change predefined writers `Foreground` or `Background` color.
+<br><br>Also you can change predefined writers `Foreground` or `Background` color.
 ``` csharp
 Console.Info.ChangeBackgroundColor(ConsoleColor.Cyan);
 Console.Info.ChangeForegroundColor(ConsoleColor.DarkBlue);
