@@ -1,0 +1,16 @@
+C:\Users\selcuk.gural\source\repos\ConsoleApp1\Peafowl\bin\Debug\netstandard2.1\Peafowl.deps.json
+C:\Users\selcuk.gural\source\repos\ConsoleApp1\Peafowl\bin\Debug\netstandard2.1\Peafowl.dll
+C:\Users\selcuk.gural\source\repos\ConsoleApp1\Peafowl\bin\Debug\netstandard2.1\Peafowl.pdb
+C:\Users\selcuk.gural\source\repos\ConsoleApp1\Peafowl\obj\Debug\netstandard2.1\Peafowl.AssemblyInfoInputs.cache
+C:\Users\selcuk.gural\source\repos\ConsoleApp1\Peafowl\obj\Debug\netstandard2.1\Peafowl.AssemblyInfo.cs
+C:\Users\selcuk.gural\source\repos\ConsoleApp1\Peafowl\obj\Debug\netstandard2.1\Peafowl.csproj.CoreCompileInputs.cache
+C:\Users\selcuk.gural\source\repos\ConsoleApp1\Peafowl\obj\Debug\netstandard2.1\Peafowl.dll
+C:\Users\selcuk.gural\source\repos\ConsoleApp1\Peafowl\obj\Debug\netstandard2.1\Peafowl.pdb
+C:\Git\Sec\Peafowl\bin\Debug\netstandard2.1\Peafowl.deps.json
+C:\Git\Sec\Peafowl\bin\Debug\netstandard2.1\Peafowl.dll
+C:\Git\Sec\Peafowl\bin\Debug\netstandard2.1\Peafowl.pdb
+C:\Git\Sec\Peafowl\obj\Debug\netstandard2.1\Peafowl.AssemblyInfoInputs.cache
+C:\Git\Sec\Peafowl\obj\Debug\netstandard2.1\Peafowl.AssemblyInfo.cs
+C:\Git\Sec\Peafowl\obj\Debug\netstandard2.1\Peafowl.csproj.CoreCompileInputs.cache
+C:\Git\Sec\Peafowl\obj\Debug\netstandard2.1\Peafowl.dll
+C:\Git\Sec\Peafowl\obj\Debug\netstandard2.1\Peafowl.pdb
