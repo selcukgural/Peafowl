@@ -14,3 +14,12 @@ C:\Git\Sec\Peafowl\obj\Debug\netstandard2.1\Peafowl.AssemblyInfo.cs
 C:\Git\Sec\Peafowl\obj\Debug\netstandard2.1\Peafowl.csproj.CoreCompileInputs.cache
 C:\Git\Sec\Peafowl\obj\Debug\netstandard2.1\Peafowl.dll
 C:\Git\Sec\Peafowl\obj\Debug\netstandard2.1\Peafowl.pdb
+D:\GitHub\Peafowl\bin\Debug\netstandard2.1\Peafowl.deps.json
+D:\GitHub\Peafowl\bin\Debug\netstandard2.1\Peafowl.dll
+D:\GitHub\Peafowl\bin\Debug\netstandard2.1\Peafowl.pdb
+D:\GitHub\Peafowl\obj\Debug\netstandard2.1\Peafowl.csprojAssemblyReference.cache
+D:\GitHub\Peafowl\obj\Debug\netstandard2.1\Peafowl.AssemblyInfoInputs.cache
+D:\GitHub\Peafowl\obj\Debug\netstandard2.1\Peafowl.AssemblyInfo.cs
+D:\GitHub\Peafowl\obj\Debug\netstandard2.1\Peafowl.csproj.CoreCompileInputs.cache
+D:\GitHub\Peafowl\obj\Debug\netstandard2.1\Peafowl.dll
+D:\GitHub\Peafowl\obj\Debug\netstandard2.1\Peafowl.pdb
