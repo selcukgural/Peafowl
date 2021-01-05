@@ -2,6 +2,10 @@
 
 <br>Peafowl is **very simple** and **extensibility** for .Net and .Net Core applications `Console` output library.
 
+Peafowl is a [NuGet](https://www.nuget.org/packages/Peafowl/1.0.0) library that you can add in to your project.
+<br>
+`Install-Package Peafowl`
+
 #### Basics
 
 ``` csharp
