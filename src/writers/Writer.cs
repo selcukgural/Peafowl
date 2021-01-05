@@ -6,20 +6,20 @@ namespace Peafowl
     {
         private readonly InvokeWriter _invokeWriter = new InvokeWriter();
 
-        public ConsoleColor ForegroundColor { get; private set; } = ConsoleColor.White;
-        public ConsoleColor BackgroundColor { get; private set; }
+        public ConsoleColor ForegroundColor { get; private set; } = System.Console.ForegroundColor;
+        public ConsoleColor BackgroundColor { get; private set; } = System.Console.BackgroundColor;
 
         public void Write(string text)
         {
             _invokeWriter
-                .BeforeWrite(ForegroundColor, System.Console.BackgroundColor)
+                .BeforeWrite(ForegroundColor, BackgroundColor)
                 .Write(text)
                 .AfterWrite();
         }
         public void WriteLine(string text)
         {
             _invokeWriter
-                .BeforeWrite(ForegroundColor, System.Console.BackgroundColor)
+                .BeforeWrite(ForegroundColor, BackgroundColor)
                 .WriteLine(text)
                 .AfterWrite();
         }
