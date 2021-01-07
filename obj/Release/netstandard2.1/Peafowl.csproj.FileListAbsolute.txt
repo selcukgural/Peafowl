@@ -6,3 +6,12 @@ D:\GitHub\Peafowl\obj\Release\netstandard2.1\Peafowl.AssemblyInfo.cs
 D:\GitHub\Peafowl\obj\Release\netstandard2.1\Peafowl.csproj.CoreCompileInputs.cache
 D:\GitHub\Peafowl\obj\Release\netstandard2.1\Peafowl.dll
 D:\GitHub\Peafowl\obj\Release\netstandard2.1\Peafowl.pdb
+C:\Development\git\other\Peafowl\bin\Release\netstandard2.1\Peafowl.deps.json
+C:\Development\git\other\Peafowl\bin\Release\netstandard2.1\Peafowl.dll
+C:\Development\git\other\Peafowl\bin\Release\netstandard2.1\Peafowl.pdb
+C:\Development\git\other\Peafowl\obj\Release\netstandard2.1\Peafowl.csprojAssemblyReference.cache
+C:\Development\git\other\Peafowl\obj\Release\netstandard2.1\Peafowl.AssemblyInfoInputs.cache
+C:\Development\git\other\Peafowl\obj\Release\netstandard2.1\Peafowl.AssemblyInfo.cs
+C:\Development\git\other\Peafowl\obj\Release\netstandard2.1\Peafowl.csproj.CoreCompileInputs.cache
+C:\Development\git\other\Peafowl\obj\Release\netstandard2.1\Peafowl.dll
+C:\Development\git\other\Peafowl\obj\Release\netstandard2.1\Peafowl.pdb

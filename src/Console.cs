@@ -25,7 +25,10 @@ namespace Peafowl
             if(!UserDefinedWriters.TryAdd(name, writer))
                 throw new WriterAlreadyRegistered($"This key ({nameof(name)}) already registered");
         }
-
+        public static void Register<T>(string name) where T : Writer, new()
+        {
+            Register(name, new T());
+        }
         public static T Get<T>(string name) where T : Writer,new()
         {
             if (!UserDefinedWriters.ContainsKey(name))

@@ -18,8 +18,8 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="D:\GitHub\Peafowl\bin\Release\netstandard2.1\Peafowl.dll" target="lib\netstandard2.1\Peafowl.dll" />
-    <file src="D:\GitHub\Peafowl\image\32px.png" target="32px.png" />
-    <file src="D:\GitHub\Peafowl\LICENSE" target="LICENSE" />
+    <file src="C:\Development\git\other\Peafowl\bin\Release\netstandard2.1\Peafowl.dll" target="lib\netstandard2.1\Peafowl.dll" />
+    <file src="C:\Development\git\other\Peafowl\image\32px.png" target="32px.png" />
+    <file src="C:\Development\git\other\Peafowl\LICENSE" target="LICENSE" />
   </files>
 </package>
