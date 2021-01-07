@@ -12,6 +12,9 @@
     <PackageIcon>32px.png</PackageIcon>
     <RepositoryUrl>https://github.com/selcukgural/Peafowl</RepositoryUrl>
     <PackageTags>ConsoleColor;Console;Output;Color;Writer;ColorfulText</PackageTags>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <FileVersion>1.0.1.0</FileVersion>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>

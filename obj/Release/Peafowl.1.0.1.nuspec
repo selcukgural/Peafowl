@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>Peafowl</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <authors>Selçuk Güral</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="file">LICENSE</license>

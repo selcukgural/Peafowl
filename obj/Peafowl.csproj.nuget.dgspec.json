@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\git\\other\\Peafowl\\Peafowl.csproj": {}
+    "D:\\GitHub\\Peafowl\\Peafowl.csproj": {}
   },
   "projects": {
-    "C:\\Development\\git\\other\\Peafowl\\Peafowl.csproj": {
-      "version": "1.0.0",
+    "D:\\GitHub\\Peafowl\\Peafowl.csproj": {
+      "version": "1.0.1",
       "restore": {
-        "projectUniqueName": "C:\\Development\\git\\other\\Peafowl\\Peafowl.csproj",
+        "projectUniqueName": "D:\\GitHub\\Peafowl\\Peafowl.csproj",
         "projectName": "Peafowl",
-        "projectPath": "C:\\Development\\git\\other\\Peafowl\\Peafowl.csproj",
-        "packagesPath": "C:\\Users\\selcuk.gural\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\git\\other\\Peafowl\\obj\\",
+        "projectPath": "D:\\GitHub\\Peafowl\\Peafowl.csproj",
+        "packagesPath": "C:\\Users\\selcu\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\Peafowl\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\selcuk.gural\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\selcu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
