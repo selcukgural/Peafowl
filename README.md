@@ -44,13 +44,16 @@ public class Debug : Writer
 
 static void Main(string[] args)
 {
-    //Now register your Debug class
+    //Now register your Debug class like this
     Console.Register("debug", new Debug());
+    //or like this
+    Console.Register<Debug>("debug");
 
     //And now you can call anywhere like this
     Console.Get<Debug>("debug").WriteLine("Debug!");
     //or like this
     Debug debug = Console.Get<Debug>("debug");
+    //or like this
     debug.WriteLine("Hello from my Debug class!");
 }
 ```
