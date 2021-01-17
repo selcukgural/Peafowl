@@ -26,7 +26,7 @@ Console.Info.ChangeBackgroundColor(ConsoleColor.Cyan);
 Console.Info.ChangeForegroundColor(ConsoleColor.DarkBlue);
 Console.Info.WriteLine("Info!");
 ```
-<br>Now best part...you can define own output class. You just need implement `Writer` class your class
+<br>Now best part...you can define own output class. You just need implement `Writer` class to your class
 
 ``` csharp
 public abstract class Writer
