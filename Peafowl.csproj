@@ -5,16 +5,16 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <Authors>Selçuk Güral</Authors>
-    <Description>Peafowl is very simple and extensibility for .Net and .Net Core applications  Console  output library.</Description>
+    <Description>Peafowl is very simple and extensibility console color helper for .Net and .Net Core applications. You can also extend some functionality.</Description>
     <Copyright>Selçuk Güral</Copyright>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageProjectUrl>https://github.com/selcukgural/Peafowl</PackageProjectUrl>
     <PackageIcon>32px.png</PackageIcon>
     <RepositoryUrl>https://github.com/selcukgural/Peafowl</RepositoryUrl>
-    <PackageTags>ConsoleColor;Console;Output;Color;Writer;ColorfulText</PackageTags>
-    <AssemblyVersion>1.0.1.0</AssemblyVersion>
-    <FileVersion>1.0.1.0</FileVersion>
-    <Version>1.0.1</Version>
+    <PackageTags>ConsoleColor;Console;Output;Color;Writer;ColorfulText; command-line; cli</PackageTags>
+    <AssemblyVersion>1.0.2.0</AssemblyVersion>
+    <FileVersion>1.0.2.0</FileVersion>
+    <Version>1.0.2</Version>
   </PropertyGroup>
 
   <ItemGroup>
