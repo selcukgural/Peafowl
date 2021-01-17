@@ -6,3 +6,4 @@ D:\GitHub\Peafowl\obj\Release\netstandard2.1\Peafowl.AssemblyInfo.cs
 D:\GitHub\Peafowl\obj\Release\netstandard2.1\Peafowl.csproj.CoreCompileInputs.cache
 D:\GitHub\Peafowl\obj\Release\netstandard2.1\Peafowl.dll
 D:\GitHub\Peafowl\obj\Release\netstandard2.1\Peafowl.pdb
+D:\GitHub\Peafowl\obj\Release\netstandard2.1\Peafowl.csprojAssemblyReference.cache
