@@ -1,6 +1,6 @@
 # Peafowl ![Logo](https://github.com/selcukgural/Peafowl/blob/main/image/64px.png)
 
-<br>Peafowl is **very simple** and **extensibility** for .Net and .Net Core applications `Console` output library.
+<br>Peafowl is **very simple** and **extensibility** console color helper for .Net applications. 
 
 Peafowl is a [NuGet](https://www.nuget.org/packages/Peafowl/1.0.0) library that you can add in to your project.
 <br>
