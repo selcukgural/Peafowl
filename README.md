@@ -53,7 +53,6 @@ static void Main(string[] args)
     Console.Get<Debug>("debug").WriteLine("Debug!");
     //or like this
     Debug debug = Console.Get<Debug>("debug");
-    //or like this
     debug.WriteLine("Hello from my Debug class!");
 }
 ```
